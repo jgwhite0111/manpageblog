@@ -18,7 +18,7 @@
 <description>
 <![CDATA[
 <p>
-manpageblog just got released in version 1.6. Version 1.6 comes along with several improvements in layout and displaying the content. Please note, that the old commonmark library is deprecated and got replaced by markdown_it . Added Pagination support LD-JSON Content support Sitemap support Fixes SEO date handling SEO optimizations Download : manpageblog 1.6&nbsp;<a href="https://joewhite.de/blog/manpageblog-release-1-6/">...</a>
+manpageblog just got released in version 1.6. Version 1.6 comes along with several improvements in layout and displaying the content. Please note, that the old commonmark library is deprecated and got replaced by markdown_it . Added * Pagination support * LD-JSON Content support * Sitemap support Fixes * SEO date handling * SEO optimizations Download : manpageblog 1.6&nbsp;<a href="https://joewhite.de/blog/manpageblog-release-1-6/">...</a>
 </p>
 <p><a href="https://joewhite.de/blog/manpageblog-release-1-6/">Read More</a></p>
 ]]>
